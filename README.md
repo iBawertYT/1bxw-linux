@@ -15,7 +15,7 @@ Minimal Error Handling: The tool assumes correct usage and may fail in unexpecte
 Installation
 
 To use 1bxw Linux, follow these steps:
-Download the tool: [Insert download link or instructions here].
+Download the tool..
 Run the .bat file
 
 Roadmap
